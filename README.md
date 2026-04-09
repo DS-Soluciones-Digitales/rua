@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Currency Converter - DS Soluciones Digitales
 
 Este proyecto es una solución técnica para el proceso de selección de Desarrolladores Marzo - Abril 2026. Consiste en un conversor de divisas dinámico construido con **Angular 20**.
@@ -19,3 +20,16 @@ Este proyecto es una solución técnica para el proceso de selección de Desarro
 2. Instalar dependencias:
    ```bash
    npm install
+=======
+# Evaluación Stiv Rua
+
+Siga las instrucciones del archivo "Ejercicio Frontend v2.pdf".
+
+Al finalizar suba todos los cambios
+
+Documentación de la evaluación:
+
+```<Coloque aquí la documentación solicitada>```
+
+
+>>>>>>> 20ca7047e7a0ea744ead3ae58819dcc6874fbba3
